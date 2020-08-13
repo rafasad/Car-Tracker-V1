@@ -98,7 +98,7 @@ A pasta @types contém as tipagens extras para completar o express e a pasta con
 *Dentro da pasta raiz do projeto contém um arquivo 'Insomnia.json' com todos os endpoints configurados para importar no Insomnia.*
 
  **/api/v1/sessions (POST):** Autenticação do usuário
-	Parametros no formato JSON: Email e password
+	Parametros no formato JSON -  Email: rafael@teste.com e password: 123456
 
 ![enter image description here](https://ik.imagekit.io/rafaelsad/auth_T7C1hwSYz.PNG)
 
